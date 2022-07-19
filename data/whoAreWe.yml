@@ -1,0 +1,13 @@
+####################### Spotlight #########################
+style: "style2 orient-left content-align-left image-position-center onscroll-image-fade-in"
+id: "who-are-we"
+title: "Who are we?"
+content: |
+  <a href="/">MAP-LAB</a> was founded in 2022 in Ithaca, NY, USA by
+  <a href="https://www.cullencartography.com/" target="_blank">Brendan Cullen</a>.
+  After several years working in geospatial analytics and app development across the public and private sector,
+  they saw the struggle organizations have sharing maps and communicating insight from their geospatial data.
+image: "../images/spotlight1.jpg"
+button:
+  label: "Learn More"
+  link: "#what-is-map-lab"

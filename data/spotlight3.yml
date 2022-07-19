@@ -1,0 +1,15 @@
+####################### Spotlight #########################
+style: "style1 orient-right content-align-left image-position-center onscroll-image-fade-in"
+id: "first"
+title: "Extend your GIS toolkit"
+content: |
+  MAP-LAB for ArcGIS Web AppBuilder - 
+  MAP-LAB for ArcGIS Pro (Coming Soon)  -
+  MAP-LAB for QGIS (Coming Soon) -
+  MAP-LAB for Mapbox (Coming Soon)
+  <br>
+  Don't see your platform listed? Let us know!
+button:
+  label: "Stay Updated"
+  link: "#"
+image: "images/spotlight03.jpg"

@@ -1,0 +1,9 @@
+<section>
+  <span class="icon {{ .style }}"></span>
+  <h3>{{ .name }}</h3>
+  {{ with .listitems }}
+  <ul class="align-left">
+    {{ . | safeHTML }}
+  </ul>
+  {{ end }}
+</section>

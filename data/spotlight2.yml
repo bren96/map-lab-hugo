@@ -1,0 +1,12 @@
+####################### Spotlight #########################
+style: "style1 orient-left content-align-left image-position-center onscroll-image-fade-in"
+title: "No code required"
+content: |
+  With <strong>MAP-LAB for ArcGIS Web AppBuilder</strong>,
+  users can easily add MAP-LAB to an existing or new application.
+  This gives users the full power of ArcGIS Online,
+  combined with the collaboration tools of MAP-LAB.
+button:
+  label: "View Products"
+  link: "/products/arcgis-web-appbuilder"
+image: "images/spotlight2.jpg"

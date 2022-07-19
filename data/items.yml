@@ -1,0 +1,24 @@
+title: "Pricing"
+content: |
+  This is an <strong>Items</strong> element, and it's basically just a grid for organizing items of various types. You can customize its <span class="demo-controls">appearance with a number of modifiers</span>, as well as assign it an optional <code>onload</code> or <code>onscroll</code> transition modifier (<a href="#reference-items">details</a>).
+style: "style1 medium onscroll-fade-in"
+items:
+  # feature item loop
+  - name: "Basic | Free"
+    listitems: |
+      <li> Unlimited MAP-LAB sessions </li>
+      <li> Observe other map viewers </li>
+    style: "style2 major fa-gem t"
+
+  # feature item loop
+  - name: "Pro | $20/month"
+    listitems: |
+      <li> Unlimited MAP-LAB sessions </li>
+      <li> Collaborative Drawing/Editing Tools </li>
+      <li> Real-Time Chat </li>
+    style: "solid style2 major fa-save"
+
+  # feature item loop
+  - name: "Developer | Contact Us"
+    listitems: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi dui turpis, cursus eget orci amet aliquam congue semper. Etiam eget ultrices risus nec tempor elit."
+    style: "solid style2 major fa-chart-bar"

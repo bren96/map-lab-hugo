@@ -1,0 +1,14 @@
+####################### Spotlight #########################
+style: "style1 orient-right content-align-left image-position-center onscroll-image-fade-in"
+id: "first"
+title: "Real-Time Collaboration"
+content: |
+  Using MAP-LAB,
+  teams can collaborate in a single map,
+  any time, anywhere.
+  Whether you're drawing, analyzing, or presenting maps,
+  MAP-LAB makes it easy for your team to work together.
+button:
+  label: "About Us"
+  link: "/about/index.html"
+image: "images/spotlight1.jpg"

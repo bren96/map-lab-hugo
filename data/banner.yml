@@ -1,0 +1,14 @@
+####################### Banner #########################
+style: "style1 orient-left content-align-left image-position-right fullscreen onload-image-fade-in onload-content-fade-right"
+title: "MAP-LAB"
+subtitle: |
+  Create, Edit, and Share Maps in Real-Time.
+content: |
+  MAP-LAB is a suite of collaborative mapping tools,
+  built to help organizations work with geospatial data in real-time.
+  Our mission is to empower teams to use maps and GIS technology to solve complex problems.
+button:
+  label: "Get Started"
+  link: "#first"
+image: "images/banner.png"
+logoPath: "images/logo.jpg"

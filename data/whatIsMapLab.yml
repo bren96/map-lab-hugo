@@ -1,0 +1,17 @@
+####################### Spotlight #########################
+style: "style2 orient-right content-align-left image-position-center onscroll-image-fade-in"
+id: "what-is-map-lab"
+title: "What is MAP-LAB?"
+content: |
+  <a href="/">MAP-LAB</a> extends your current GIS stack
+  to provide a unique collaborative experience.
+  Rather than build a new GIS platform,
+  our goal is to build tools that can be easily
+  integrated into already popular and thriving GIS software such as
+  <a href="https://www.esri.com/en-us/arcgis/products/arcgis-web-appbuilder/overview">ArcGIS Web AppBuilder</a>, 
+  <a href="https://www.esri.com/en-us/arcgis/products/arcgis-pro/overview">ArcGIS Pro</a>,
+  and <a href="https://www.qgis.org/en/site/">QGIS</a>.
+image: "../images/spotlight1.jpg"
+button:
+  label: "View Products"
+  link: "/products"

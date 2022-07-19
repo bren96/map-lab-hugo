@@ -1,0 +1,22 @@
+####################### Spotlight #########################
+style: "style2 orient-left content-align-left image-position-center onscroll-image-fade-in"
+id: "why-maps"
+title: "Why Maps?"
+content: |
+  Maps and GIS software have become an integral
+  technology for thousands of organizations across the globe.
+  At <a href="/">MAP-LAB</a>,
+  we believe remote work
+  and the new hybrid office environment
+  has created major challenges for
+  organizations to effectively communicate
+  using maps and share valuable insight from
+  their existing geospatial data and analytics platforms.
+  We're passionate about helping organizations
+  adapt to this new work environment
+  through online collaborative GIS tools that
+  promote discovery, insight, and discussion.
+image: "../images/spotlight1.jpg"
+button:
+  label: 'Learn More'
+  link: '/products'

@@ -1,0 +1,10 @@
+####################### Spotlight #########################
+style: "style2 orient-right content-align-left image-position-center onscroll-image-fade-in fit"
+id: "first"
+title: "About Us"
+content: |
+  Inspired by online collaboration tools like
+  Google Docs, Figma, and Miro,
+  <a href="/">MAP-LAB</a> is helping GIS teams work collaboratively
+  and generate greater impact from their work.
+image: "../images/logo.jpg"

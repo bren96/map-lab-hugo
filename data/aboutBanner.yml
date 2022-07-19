@@ -1,0 +1,10 @@
+####################### Banner #########################
+style: "style3 orient-left content-align-left image-position-left fullscreen onload-image-fade-in onload-content-fade-right"
+title: "MAP-LAB"
+subtitle: |
+  About Us
+content: |
+  Inspired by online collaboration tools like Google Docs, Figma, and Miro, MAP-LAB is helping GIS teams work collaboratively and generate greater impact from their work.
+label: "Get Started"
+link: "#first"
+image: "/images/banner.png"

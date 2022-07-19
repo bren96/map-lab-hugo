@@ -1,0 +1,9 @@
+{{ define "main" }}
+<main>
+    {{ partial "spotlight" site.Data.whoAreWe }}
+    {{ partial "spotlight" site.Data.whatIsMapLab }}
+    {{ partial "spotlight" site.Data.whyMaps }}
+
+    {{ partial "template/footer" . }}
+</main>
+{{ end }}
